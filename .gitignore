@@ -1,0 +1,17 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!*.c
+!*.md
+!*/
+
+# Ignore common artifacts
+*.o
+*.out
+*.exe
+*.dSYM/
+
+# macOS specific
+.DS_Store
