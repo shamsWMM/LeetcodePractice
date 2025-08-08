@@ -1,4 +1,6 @@
 # LeetcodePractice
+
+### Coped notes from LeetCode for C Submissions
 Compiled with gcc 14 using the gnu11 standard.
 
 Your code is compiled with level one optimization (-O2). AddressSanitizer is also enabled to help detect out-of-bounds and use-after-free bugs.
