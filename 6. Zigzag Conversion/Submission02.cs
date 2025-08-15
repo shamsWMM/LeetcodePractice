@@ -18,7 +18,7 @@ public class Solution
             while (sIndex < len)
             {
                 sb.Append(s[sIndex]);
-                step = maxStep - step % maxStep;
+                step = maxStep - step % maxStep; // step is never 0. It's either maxStep, or alternates between two values
                 sIndex = sIndex + step;
             }
         }
