@@ -8,6 +8,7 @@
 !*.md
 !*.py
 !*/
+!*.js
 
 # Ignore common artifacts
 *.o
